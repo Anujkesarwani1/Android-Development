@@ -1,6 +1,5 @@
 # Android-Development
 # Meme-Share-App
-These memes are coming in your mobile through APIs.
 
 - This Application is developed on **java** and memes are collected with the help of **MemeAPI**.
 - **Tools** - Android Studio & Java
